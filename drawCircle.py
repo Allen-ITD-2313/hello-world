@@ -3,6 +3,8 @@ import turtle
 def drawCircle (centerpoint, radius):
 
     (x,y) = centerpoint
+    
+    turtle.pencolor("red")
 
     turtle.up()
 
